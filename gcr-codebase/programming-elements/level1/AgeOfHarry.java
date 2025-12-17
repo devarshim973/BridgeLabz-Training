@@ -1,11 +1,15 @@
 import java.util.*;
 
-public class AgeOfHarry{
+public class percentageofsam{
 	public static void main(String[] args){
-		int birthyear = 2000;
-		int curryear = 2024;
+		int math = 94;
+		int physics = 95;
+		int chemistry = 96;
 		
-		int age = curryear - birthyear;
-		System.out.println("Harry's age in 2024 is: " + age);
+		int totalmarks = math + physics + chemistry;
+		double average = totalmarks/3.0;
+		
+		System.out.println("Sam’s average mark in PCM is " + average);
 	}
 }
+		
