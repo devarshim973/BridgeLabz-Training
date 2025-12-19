@@ -1,47 +1,48 @@
 import java.util.Scanner;
 
-public class OddEvenArray {
+public class FactorsUsingArray {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
-        // Take user input
-        System.out.print("Enter a natural number: ");
+        // Take input
+        System.out.print("Enter a positive number: ");
         int number = sc.nextInt();
 
-        // Check for natural number
         if (number <= 0) {
-            System.out.println("Error: Please enter a natural number greater than 0.");
-            return; // exit program
+            System.out.println("Please enter a positive integer.");
+            return;
         }
 
-        int[] even = new int[number / 2 + 1];
-        int[] odd = new int[number / 2 + 1];
+        // Initialize array variables
+        int maxFactor = 10;
+        int[] factors = new int[maxFactor];
+        int index = 0;
 
-        int evenIndex = 0;
-        int oddIndex = 0;
-
-        // Loop from 1 to number
+        // Find factors
         for (int i = 1; i <= number; i++) {
-            if (i % 2 == 0) {
-                even[evenIndex] = i;
-                evenIndex++;
-            } else {
-                odd[oddIndex] = i;
-                oddIndex++;
+
+            if (number % i == 0) {
+
+                if (index == maxFactor) {
+                    maxFactor = maxFactor * 2;
+                    int[] temp = new int[maxFactor];
+
+                    for (int j = 0; j < index; j++) {
+                        temp[j] = factors[j];
+                    }
+                    factors = temp;
+                }
+
+                // Store factor
+                factors[index] = i;
+                index++;
             }
         }
 
-        // Print odd numbers
-        System.out.println("\nOdd Numbers:");
-        for (int i = 0; i < oddIndex; i++) {
-            System.out.print(odd[i] + " ");
-        }
-
-        // Print even numbers
-        System.out.println("\n\nEven Numbers:");
-        for (int i = 0; i < evenIndex; i++) {
-            System.out.print(even[i] + " ");
+        System.out.println("Factors of " + number + " are:");
+        for (int i = 0; i < index; i++) {
+            System.out.print(factors[i] + " ");
         }
 
     }
