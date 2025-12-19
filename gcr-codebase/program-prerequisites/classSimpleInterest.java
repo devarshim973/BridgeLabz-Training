@@ -1,30 +1,20 @@
 import java.util.Scanner;
 
-public class SimpleInterest {
+public class PerimeterOfRectangle {
     public static void main(String[] args) {
-        
-        // Create Scanner object to take input
+
         Scanner sc = new Scanner(System.in);
 
-        // Input Principal
-        System.out.print("Enter Principal amount: ");
-        double principal = sc.nextDouble();
+        System.out.print("Enter length of rectangle: ");
+        double length = sc.nextDouble();
 
-        // Input Rate of Interest
-        System.out.print("Enter Rate of Interest: ");
-        double rate = sc.nextDouble();
+        System.out.print("Enter width of rectangle: ");
+        double width = sc.nextDouble();
 
-        // Input Time
-        System.out.print("Enter Time (in years): ");
-        double time = sc.nextDouble();
+        double perimeter = 2 * (length + width);
 
-        // Calculate Simple Interest
-        double simpleInterest = (principal * rate * time) / 100;
+        System.out.println("Perimeter of Rectangle = " + perimeter);
 
-        // Display result
-        System.out.println("Simple Interest = " + simpleInterest);
-
-        // Close scanner
         sc.close();
     }
 }
