@@ -1,3 +1,7 @@
+//Write a Java program that asks the user for the coffee type using switch, 
+//acceptsquantity, calculates the total bill using price multiplied by quantity, adds GST using arithmetic operators,
+ //and continues serving customers using a while loop. 
+
 import java.util.Scanner;
 
 public class CoffeeCounter {
