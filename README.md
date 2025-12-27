@@ -148,4 +148,4 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased)
-👉 [Day 8 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+👉 [Day 8 – Leetcode-based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
