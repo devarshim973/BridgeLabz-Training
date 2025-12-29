@@ -196,3 +196,20 @@ Committed and pushed all changes successfully.
 🔗 Code Link:  
 👉 [Day 10 – Constructors & Access Modifiers](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor)
 
+---
+
+### 🗓 Day 11 – Core Java Keywords & Scenario-Based Problems
+*(Date: 29-Dec-2025)*
+
+- Studied Core Java keywords:
+  - this keyword
+  - static keyword.
+  - final keyword
+- Practiced scenario-based Core Java problems:
+- Applied concepts using:
+  - for, for-each, while, do-while loops
+  -  if-else and switch-case statements
+- Improved logic building through real-world problem scenarios.  
+
+🔗 *Code Link:*  
+👉 [Day 11 –  Core Java Keywords ](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
