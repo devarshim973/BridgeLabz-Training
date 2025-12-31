@@ -173,10 +173,10 @@ Menu-driven program using switch-case and while loop.
 🎲 Number Guessing Game
 Implemented do-while loop with hints and attempt limits.
 
----
-
 🔗 Code Link:
 👉 [Day 9 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day3)
+
+---
 
 🗓 Day 10 – Advanced Scenario Based Practice
 (Date: 29-Dec-2025)
@@ -201,3 +201,32 @@ Weekly tracking using for-each, continue, and averages.
 
 🔗 Code Link:
 [👉 Day 10 – Core Java Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day4)
+
+---
+
+### 🗓 Day 11 – Core Java Scenario-Based Practice  
+*(Date: 31-Dec-2025)*  
+
+#### 🔹 Core Java Practice (core-java-practice)
+Solved *5 real-world scenario-based problems* focusing on loops, conditionals, switch cases, and control flow.
+
+*Problems Implemented:*
+- ⏱️ *Digital Watch Simulation*  
+  Simulated a 24-hour clock using nested loops and stopped execution at 13:00 using break.
+
+- 🧠 *Online Quiz Application*  
+  Implemented an MCQ-based quiz using arrays, for-loop, and switch for answer validation with score tracking.
+
+- 💱 *Currency Exchange Kiosk*  
+  Converted INR to different currencies using switch and repeated conversions using do-while.
+
+- 🚌 *Bus Route Distance Tracker*  
+  Tracked total distance across stops using while-loop and exited based on user confirmation.
+
+- 🎉 *Festival Lucky Draw*  
+  Checked winning conditions using modulus operator with input validation and continue.
+
+Emphasis on clean code structure, proper indentation, and logical flow.
+
+🔗 *Code Link:*  
+👉 [Day 11 – Core Java Scenario Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day5)
