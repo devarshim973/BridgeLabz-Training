@@ -128,3 +128,76 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Built-in Functions](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS%20-%20Built-In%20Function)(https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/level1)
+
+---
+
+### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
+*(Date: 24-Dec-2025)*
+
+- Solved real-world, scenario-based Java problems.
+- Practiced LeetCode-based questions to strengthen logical thinking.
+- Implemented programs such as:
+  - Coffee Counter Billing System
+  - BMI Fitness Tracker
+- Applied Core Java concepts including:
+  - Variables and primitive data types
+  -  Conditional logic (if-else, switch)
+  -  Loops (while)
+- Followed clean coding practices with proper naming and comments.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 8 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased)
+👉 [Day 8 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+🗓 Day 9 – Java Control Statements & Loops
+(Date: 29-Dec-2025)
+
+Practiced Java fundamentals using real-life, scenario-based problems.
+
+Problems Solved:
+🛍️ Shopkeeper’s Discount Dashboard
+Used for-loop and if-else to calculate discounts.
+
+🚍 School Bus Attendance System
+Implemented for-each loop to track present and absent students.
+
+📱 Phone Recharge Simulator
+Used switch and loops to manage recharges and balances.
+
+🚗 Parking Lot Gate System
+Menu-driven program using switch-case and while loop.
+
+🎲 Number Guessing Game
+Implemented do-while loop with hints and attempt limits.
+
+---
+
+🔗 Code Link:
+👉 [Day 9 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day3)
+
+🗓 Day 10 – Advanced Scenario Based Practice
+(Date: 29-Dec-2025)
+
+Focused on arrays, loops, and control flow through advanced scenarios.
+
+Problems Solved:
+🎬 Movie Ticket Booking App
+Combined switch and if with loops for multiple users.
+
+📚 Rohan’s Library Reminder App
+Calculated late return fines using conditional logic.
+
+🌡️ Temperature Logger
+Used arrays to compute average and maximum temperature.
+
+🚆 Train Reservation Queue
+Ticket booking simulation using while, switch, and break.
+
+🏋️ Sandeep’s Fitness Challenge Tracker
+Weekly tracking using for-each, continue, and averages.
+
+🔗 Code Link:
+[👉 Day 10 – Core Java Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day4)
