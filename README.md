@@ -104,7 +104,7 @@ Focused on control flow, clean logic, and readable structure
 
 ---
 
-### 🗓 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
+### 🗓 Day 6 – Encapsulation, Polymorphism, Interface and Abstract Class
 *(Date: 1-Jan-2026)* 
 
 #### 🔹 Java OOPS Practice (java-oops-practice)
@@ -130,5 +130,5 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 - Selected appropriate data structures (ArrayList, HashMap, etc.)
 
 🔗 Code Links:
-👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
+👉 [Day 6 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
