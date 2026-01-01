@@ -101,3 +101,34 @@ Focused on control flow, clean logic, and readable structure
 
 🔗 Code Links:
 👉 [Day 5 -  Inheritance ](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Inheritance)
+
+---
+
+### 🗓 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
+*(Date: 1-Jan-2026)* 
+
+#### 🔹 Java OOPS Practice (java-oops-practice)
+Learned and practiced Encapsulation along with scenario-based OOPS problem solving.
+
+*Topics Covered:*
+- Data hiding using private fields
+- Controlled access via getters & setters
+- Validation logic inside methods
+- Securing sensitive data (e.g., account balance, user details)
+- Improved code safety, flexibility, and maintainability
+- Example Implemented:
+   - BankAccount with validated deposit & withdrawal operations
+  
+####  🔹 OOPS Scenario-Based Practice (java-oops-practice)
+Solved multiple real-world OOPS scenarios using a structured problem-solving approach.
+
+*Approach Followed::*
+- Solved real-world OOPS problems using a structured approach:
+- Identified entities, responsibilities, and relationships
+- Designed classes with SRP, constructors, and access modifiers
+- Applied inheritance, interfaces, and polymorphism
+- Selected appropriate data structures (ArrayList, HashMap, etc.)
+
+🔗 Code Links:
+👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
+👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
