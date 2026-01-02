@@ -132,3 +132,33 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 🔗 Code Links:
 👉 [Day 6 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
+
+---
+
+
+---
+
+### 📅 Day 7 – Scenario-Based OOP Practice (Java)
+**(Date: 02-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **Hospital Patient Management System**
+- **Vehicle Rental Application**
+- **University Course Enrollment System**
+- **E-Wallet Application**
+- **Smart Home Automation System**
+
+#### 🔧 Concepts Covered
+- Constructor overloading  
+- Access modifiers  
+- Interfaces  
+- Method overriding  
+- Polymorphic behavior  
+- Real-world object modeling  
+
+  🔗 Code Links:
+👉 [Day 7 - Scenario-Based Problems-Day2](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day2)
