@@ -175,6 +175,8 @@ Implemented do-while loop with hints and attempt limits.
 
 🔗 Code Link:
 👉 [Day 9 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased/Day3)
+👉 [Day 9 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
 
 ---
 
