@@ -351,3 +351,39 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
   🔗 Code Links:
 👉 [Day 15 -  LinkedList](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 👉 [Scenario-Based Problems-Day2](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day2)
+
+---
+
+MAIN README.Md update - 
+
+### 📅 Day 16 – Stacks, Queues & Hashing
+**(Date: 03-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Stack (LIFO): recursion, undo/redo, parenthesis check
+- Queue (FIFO): BFS, scheduling, task processing
+- Deque / PriorityQueue: optimized & priority-based access
+- HashMap: key–value storage, O(1) average lookup
+- Hashing: bucket mapping, collision handling
+- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
+- Focus: optimized O(n) solutions & clean code
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CabbyGo (Ride-Hailing App)**
+- **MyBank (Banking System)**
+
+### ✅ Summary
+- Strengthened DSA fundamentals
+- Practiced real-world OOP design
+- Maintained structured learning via branches
+
+  🔗 Code Links:
+👉 [Day 2 -  Stacks, Queues](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StacksandQueues)
+👉 [hashmapandhashfunctions](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/HashMapsHashFunctions)
+👉 [Scenario-Based Problems-Day3](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day3)
