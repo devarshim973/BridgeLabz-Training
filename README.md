@@ -162,3 +162,23 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 
   🔗 Code Links:
 👉 [Day 7 - Scenario-Based Problems-Day2](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day2)
+
+---
+
+java-oops-practice branch README.md -
+### 📅 Day 8 – Scenario-Based OOP Practice (Java)
+**(Date: 03-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CabbyGo (Ride-Hailing App)**
+- **MyBank (Banking System)**
+
+  🔗 Code Links:
+👉 [Day 8- Scenario-Based Problems-Day3](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day3)
