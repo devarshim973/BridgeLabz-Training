@@ -182,3 +182,28 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 
   🔗 Code Links:
 👉 [Day 8- Scenario-Based Problems-Day3](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day3)
+
+---
+
+### 📅 Day 9 – Scenario-Based OOP Practice (Java)
+**(Date: 05-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+### 🔹 Scenario-Based OOP Practice (Java)
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CampusConnect – College Information System**
+- **SwiftCart – Grocery Shopping App**
+
+#### 📘 Highlights
+- Used **inheritance** with common base classes  
+- Applied **interfaces** for actions & checkout logic  
+- Ensured **encapsulation** using private data  
+- Implemented **polymorphism** via method overriding  
+- Used **constructors** & **operators** for calculations 
+
+  🔗 Code Links:
+👉 [Day 9- Scenario-Based Problems-Day4](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/day4)
