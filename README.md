@@ -431,3 +431,59 @@ Strengthened **Core OOP Concepts** through real-world systems:
 🔗 **Code Links:**  
 👉 [Day 17- Sorting Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Sorting)  
 👉 [Scenario-Based Problems-Day4](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/day4)
+
+---
+
+### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+**(Date: 06-Jan-2026)**  
+**Branch:** `dsa-practice`  
+
+### 🔹 Java I/O Streams & String Handling (Core Java)
+
+Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
+
+- **File-Based Searching**
+  - Reading large files using BufferedReader
+  - Word extraction and normalization
+  - Searching text data using linear and binary search
+
+- **String Optimization**
+  - Difference between String, StringBuilder, and StringBuffer
+  - Performance comparison and thread-safety analysis
+    
+### 🔹 Searching Algorithms (DSA)
+- **Linear Search**
+  - First negative element in an array
+  - Searching a specific word in sentences
+  - Word search in large text files using BufferedReader
+  - Suitable for unsorted and small datasets
+
+- **Binary Search**
+  - Rotation point in rotated sorted arrays
+  - Finding peak elements
+  - Searching in 2D sorted matrices
+  - First and last occurrence of elements
+  - Efficient searching in sorted datasets
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **EduMentor** – Learning platform with quizzes & certification logic  
+- **FitTrack** – Fitness tracking with workouts & calorie computation  
+- **PetPal** – Virtual pet care with interactive behaviors  
+- **EventEase** – Event booking, scheduling & cost calculation
+- 
+### ✅ Summary
+- Mastered **Java I/O streams & encoding**
+- Compared **String, StringBuilder & StringBuffer**
+- Implemented **search algorithms on arrays & files**
+- Built multiple **real-world OOP systems**
+- Maintained clean separation of **DSA & OOP branches**
+
+🔗 **Code Links:**  
+👉 [Day 18- Searching Algorithms ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Searching) 
+👉 [Scenario-Based Problems-Day5](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day5)
