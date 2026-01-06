@@ -485,5 +485,5 @@ Applied **Core OOP Principles** through real-world systems:
 - Maintained clean separation of **DSA & OOP branches**
 
 🔗 **Code Links:**  
-👉 [Day 18- Searching Algorithms ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Searching) 
-👉 [Scenario-Based Problems-Day5](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day5)
+👉 [Day 18- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch) 
+👉 [Scenario-Based Problems-Day5]()
