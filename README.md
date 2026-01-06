@@ -211,7 +211,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 ---
 
 
-### 📅 Day 18 – ### 🔹 Scenario-Based OOP Practice (Java)
+### 📅 Day 10 – ### 🔹 Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice` 
 **(Date: 06-Jan-2026)**    
 
