@@ -486,4 +486,4 @@ Applied **Core OOP Principles** through real-world systems:
 
 🔗 **Code Links:**  
 👉 [Day 18- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch) 
-👉 [Scenario-Based Problems-Day5]()
+👉 [Scenario-Based Problems-Day5](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day5)
