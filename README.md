@@ -34,3 +34,35 @@
 👉 [Day 2 -  Stacks, Queues](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StacksandQueues)
 👉 [hashmapandhashfunctions](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/HashMapsHashFunctions)
 
+---
+
+### 📅 Day 3 – Sorting Algorithms 
+**(Date: 05-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+### 🔹 Sorting Algorithms (DSA)
+
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+**Focus:**  
+- Time & space complexity analysis  
+- Comparison vs Non-comparison sorting  
+- In-place vs Stable sorting  
+- Real-world datasets (marks, prices, salaries, ages)
+
+### ✅ Summary
+- Built strong understanding of **sorting algorithms**
+- Compared algorithm efficiency & use cases
+- Maintained clean, structured learning across branches
+
+🔗 **Code Links:**  
+👉 [Day 3- Sorting Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Sorting)  
+
