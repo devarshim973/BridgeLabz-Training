@@ -127,7 +127,8 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 7 – Built-in Functions](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS%20-%20Built-In%20Function)(https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/level1)
+👉 [Day 7 – Built-in Functions](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS%20-%20Built-In%20Function)
+👉 [Day 7 – String extras](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/level1)
 
 ---
 
