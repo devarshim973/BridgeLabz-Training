@@ -68,7 +68,7 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 
 ---
 
-### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+### 📅 Day 4 – Java I/O Streams, String Optimization & Search Algorithms  
 **(Date: 06-Jan-2026)**  
 **Branch:** `dsa-practice`  
 
@@ -108,5 +108,5 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 - Maintained clean separation of **DSA**
 
 🔗 **Code Links:**  
-👉 [Day 18- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch)
+👉 [Day 4- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch)
 
