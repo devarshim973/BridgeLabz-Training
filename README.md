@@ -66,3 +66,47 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 🔗 **Code Links:**  
 👉 [Day 3- Sorting Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Sorting)  
 
+---
+
+### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+**(Date: 06-Jan-2026)**  
+**Branch:** `dsa-practice`  
+
+### 🔹 Java I/O Streams & String Handling (Core Java)
+
+Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
+
+- **File-Based Searching**
+  - Reading large files using BufferedReader
+  - Word extraction and normalization
+  - Searching text data using linear and binary search
+
+- **String Optimization**
+  - Difference between String, StringBuilder, and StringBuffer
+  - Performance comparison and thread-safety analysis
+    
+### 🔹 Searching Algorithms (DSA)
+- **Linear Search**
+  - First negative element in an array
+  - Searching a specific word in sentences
+  - Word search in large text files using BufferedReader
+  - Suitable for unsorted and small datasets
+
+- **Binary Search**
+  - Rotation point in rotated sorted arrays
+  - Finding peak elements
+  - Searching in 2D sorted matrices
+  - First and last occurrence of elements
+  - Efficient searching in sorted datasets
+
+- 
+### ✅ Summary
+- Mastered **Java I/O streams & encoding**
+- Compared **String, StringBuilder & StringBuffer**
+- Implemented **search algorithms on arrays & files**
+- Built multiple **real-world OOP systems**
+- Maintained clean separation of **DSA**
+
+🔗 **Code Links:**  
+👉 [Day 18- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch)
+
