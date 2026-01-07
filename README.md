@@ -1,10 +1,10 @@
 # BridgeLabz-Training
 
-## 📅 Git, GitHub & Java Programming Fundamentals
+## 📅 Program Prerequisites
 
 ---
 
-### 🗓 Day 1 – Git & GitHub Setup  
+### 📅 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
 
 - Installed and configured Git.
@@ -29,7 +29,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
+### 📅 Day 2 – Git Practice & Basic Java Programs  
 **(Date: 17-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
@@ -40,8 +40,11 @@ BridgeLabz-Training/
 👉 [Day 2 – Basic Java Programs](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
 ---
+## 📅Week 1 : Java Programming Fundamentals
 
-### 🗓 Day 3 – Programming Elements in Java  
+---
+
+### 📅 Day 3 – Programming Elements in Java  
 **(Date: 18-Dec-2025)**
 
 - Studied Java programming elements:
@@ -56,7 +59,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
+### 📅 Day 4 – Control Flow & Logical Constructs  
 **(Date: 19-Dec-2025)**
 
 - Studied logical constructs in Java:
@@ -154,7 +157,7 @@ BridgeLabz-Training/
 👉 [Day 8 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
-## 📅 Introduction to Object Oriented Programming
+## Week 2: 📅 Introduction to Object Oriented Programming
 
 ---
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
@@ -312,7 +315,7 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
 
 ---
-## 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
+## Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
 ---
 
@@ -494,3 +497,37 @@ Applied **Core OOP Principles** through real-world systems:
 🔗 **Code Links:**  
 👉 [Day 18- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch) 
 👉 [Scenario-Based Problems-Day5](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day5)
+
+---
+
+### 📅 Day 19 –  Runtime Analysis & Big-O Notation   
+**(Date: 07-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
+
+ ### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **LoanBuddy** – Loan approval & EMI calculation system  
+- **BookBazaar** – Bookstore inventory, orders & discounts  
+- **ParkEase** – Smart parking slots & charge calculation
+  
+🔗 **Code Links:**
+👉 [Day 19- Runtime Analysis & Big-O](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
+👉 [Scenario-Based Problems-Day6](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day6)
