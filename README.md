@@ -1,7 +1,32 @@
+## 📅 DSA Practice - Progress Log
 
 ### 📅 Day 1 – Data Structures Overview
 **(Date: 02-Jan-2026)**  
 **Branch:** `dsa-practice`
+
+ 📘 DSA(Data Structure and Algorithms)
+
+📂 Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── dsa-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   └── JavaDsaPractice/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Core DSA implementations)
+│   │
+│   ├── leetcode-based-codebase/
+│   │   └── (LeetCode problem solutions)
+│   │
+│   ├── scenario-based-codebase/
+│   │   └── (Real-world DSA scenario problems)
+│   │
+│   └── README.md
+```
 
 - Learned fundamentals of **Data Structures**
 - Explored **Linear & Non-Linear Data Structures**
@@ -109,4 +134,22 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 
 🔗 **Code Links:**  
 👉 [Day 4- Searching Algorithms ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/LinearandBinarySearch)
+
+---
+
+### 📅 Day 4 –  Runtime Analysis & Big-O Notation   
+**(Date: 07-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+  
+🔗 **Code Links:**
+👉 [Day 4- Runtime Analysis & Big-O](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
+
 
