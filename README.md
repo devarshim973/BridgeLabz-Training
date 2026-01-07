@@ -226,3 +226,22 @@ Applied **Core OOP Principles** through real-world systems:
 
 🔗 **Code Links:**  
 👉 [Scenario-Based Problems-Day5](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day5)
+
+---
+
+### 📅 Day 11 –  Scenario-Based OOP Practice (Java) 
+**(Date: 07-Jan-2026)**  
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **LoanBuddy** – Loan approval & EMI calculation system  
+- **BookBazaar** – Bookstore inventory, orders & discounts  
+- **ParkEase** – Smart parking slots & charge calculation  
+
+🔗 **Code Links:**  
+👉 [Day 11 – Scenario-Based Problems-Day6](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day6)
