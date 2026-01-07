@@ -81,7 +81,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+### 📅 Day 5 – Arrays & Basic Problem Solving  
 **(Date: 20-Dec-2025)**
 
 - Studied arrays in Java:
@@ -99,7 +99,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 – Strings & Methods  
+### 📅 Day 6 – Strings & Methods  
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
@@ -119,7 +119,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
+### 📅 Day 7 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
 - Practiced Java built-in functions.
@@ -137,7 +137,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
+### 📅 Day 8 – Scenario-Based Problems, LeetCode Practice & Revision
 *(Date: 24-Dec-2025)*
 
 - Solved real-world, scenario-based Java problems.
@@ -160,25 +160,55 @@ BridgeLabz-Training/
 ## Week 2: 📅 Introduction to Object Oriented Programming
 
 ---
-### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
+### 📅 Day 9 – OOPs Fundamentals (Class & Object), Eclipse IDE & Git Branching 
 *(Date: 26-Dec-2025)*
 
-- Created a new branch named java-oops-practice.
-- Set up Eclipse IDE for Java Developers. 
-- Practiced Object-Oriented Programming concepts.
-- Implemented OOPS-based Java programs using:
-  - Classes and Objects
-  - Constructors
+Started learning *Object-Oriented Programming (OOPs)* concepts in Java with a deep focus on *Class and Object, along with hands-on practice using **Eclipse IDE* and understanding *Git branching*.
+
+#### Java OOPs – Class and Object
+- Learned the concept of *Class* as a blueprint that defines attributes (fields) and behaviors (methods).
+- Understood that a class does not consume memory until an object is created.
+- Studied *Object* as an instance of a class representing a real-world entity.
+- Understood:
+  - State (attributes)
+  - Behavior (methods)
+  - Memory allocation in heap during object creation
+- Practiced defining:
+  - Attributes
   - Methods
-- Organized OOPS programs into a separate branch.
-- Committed and pushed all changes successfully.
+  - Constructors (parameterized)
+- Compared *Class vs Object* with real-world examples.
+
+#### Programming Practice
+- Implemented *Student Details program* using class, object, constructor, and methods.
+- Implemented *Travel Details program* to understand real-world data modeling using classes and objects.
+- Focused on proper object creation and method invocation.
+
+#### Eclipse IDE (Deep Understanding)
+- Explored Eclipse IDE interface and project structure
+- Created Java projects and packages
+- Understood:
+  - Class creation
+  - Running Java programs
+  - Console output
+  - Debugging basics
+- Improved productivity using Eclipse shortcuts and features
+
+#### Git Branching
+- Learned the concept of *Git branches* and their importance in version control
+- Created and switched between branches
+- Understood how branches help in:
+  - Isolated development
+  - Feature-based coding
+  - Safe experimentation
+- Practiced pushing changes to specific branches
 
 🔗 *Code Link:*  
 👉 [Day 9 – OOPS Concepts ](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 ---
 
-### Day 10 – Constructors & Access Modifiers  
+### 📅 Day 10 – Constructors & Access Modifiers  
 *(Date: 27-Dec-2025)*Learned core OOP concepts in Java:
 - Constructors in Java
   - Default Constructor
@@ -205,25 +235,32 @@ Committed and pushed all changes successfully.
 
 ---
 
-### 🗓 Day 11 – Core Java Keywords & Scenario-Based Problems
+### 📅 Day 11 – Java OOP Keywords, instanceof Operator & Scenario-Based Practice 
 *(Date: 29-Dec-2025)*
 
-- Studied Core Java keywords:
-  - this keyword
-  - static keyword.
-  - final keyword
-- Practiced scenario-based Core Java problems:
-- Applied concepts using:
-  - for, for-each, while, do-while loops
-  -  if-else and switch-case statements
-- Improved logic building through real-world problem scenarios.  
+#### Java OOP Concepts(java-oops-practice)
+Learned key Java features:
+- this keyword – refers to the current object
+- final keyword – restricts modification or inheritance
+- instanceof operator – checks object type at runtime
+- static keyword – creates class-level shared members
+
+Improved understanding of scope, object behavior, and code reusability.
+
+#### Scenario-Based Programs (core-java-practice)
+Solved real-world problems:
+- Shopkeeper’s Discount Dashboard (for-loop, if-else)
+- School Bus Attendance System (for-each loop, counters)
+- Phone Recharge Simulator (switch case, loops, balance tracking)
+
+Practiced logical thinking and control flow using real-life scenarios.
 
 🔗 *Code Link:*  
 👉 [Day 11 –  Core Java Keywords ](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
 
 ---
 
-### 🗓 Day 12 – Object Modeling & Scenario-Based Programs  
+### 📅 Day 12 – Object Modeling & Scenario-Based Programs  
 *(Date: 30-Dec-2025)* 
 
 #### 🔹 Java OOPS Practice (java-oops-practice)
@@ -255,7 +292,7 @@ Focused on clean structure, proper variable naming, and modular logic.
 
 ---
 
-### 🗓 Day 13 – Java Inheritance & OOPS Hierarchies
+### 📅 Day 13 – Java Inheritance & OOPS Hierarchies
 *(Date: 31-Dec-2025)* 
 
 #### 🔹 Java OOPS Practice (java-oops-practice)
@@ -285,7 +322,7 @@ Focused on control flow, clean logic, and readable structure
 
 ---
 
-### 🗓 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
+### 📅 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
 *(Date: 1-Jan-2026)* 
 
 #### 🔹 Java OOPS Practice (java-oops-practice)
@@ -363,8 +400,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 👉 [Scenario-Based Problems-Day2](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day2)
 
 ---
-
-MAIN README.Md update - 
+ 
 
 ### 📅 Day 16 – Stacks, Queues & Hashing
 **(Date: 03-Jan-2026)**  
