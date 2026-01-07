@@ -1,5 +1,7 @@
 # BridgeLabz-Training
 
+📅 Git, GitHub & Java Programming Fundamentals
+
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -152,7 +154,9 @@ BridgeLabz-Training/
 👉 [Day 8 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
+📅 Introduction to Object Oriented Programming
 
+---
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
 *(Date: 26-Dec-2025)*
 
@@ -306,6 +310,9 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 🔗 Code Links:
 👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
+
+---
+📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
 ---
 
