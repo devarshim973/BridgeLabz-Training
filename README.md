@@ -1,7 +1,62 @@
 # BridgeLabz-Training
 
-## 📅 Program Prerequisites
+This repository contains Java practice work completed during the BridgeLabz Training Program, focusing on building strong programming fundamentals and problem-solving skills.
+- Core Java concepts and hands-on practice
+- Object-Oriented Programming (OOPS) principles and implementations
+- Data Structures & Algorithms (DSA) using Java
+- Well-organized, concept-wise project structure
+- LeetCode and scenario-based problem solutions
 
+---
+
+## 📂 Project Structure 
+
+```
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── programming-prerequisites/
+│   │   ├── programming-elements/
+│   │   ├── control-flows/
+│   │   ├── arrays/
+│   │   ├── methods/
+│   │   ├── strings/
+│   │   └── extras/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
+│
+├── java-oops-practice/
+│   ├── gcr-codebase/
+│   │   └── JavaOopsConcepts/
+│   │       └── src/
+│   │           └── com/
+│   │               ├── classandobject/
+│   │               ├── constructor/
+│   │               ├── finalandstatic/
+│   │               ├── objectmodeling/
+│   │               ├── inheritance/
+│   │               └── encapsulation/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
+│
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   │   └── JavaDsaPractice/
+│   │       └── src/
+│   │           └── com/
+│   │               ├── linkedlist/
+│   │               ├── stacksandqueues/
+│   │               ├── hashmapsandfunctions/
+│   │               └── sorting/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
+│
+└── README.md
+```
+---
+
+## 📅Week 1 : Java Programming Fundamentals
 ---
 
 ### 📅 Day 1 – Git & GitHub Setup  
@@ -9,21 +64,6 @@
 
 - Installed and configured Git.
 - Set up GitHub repository.
-```
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-```
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 
@@ -38,9 +78,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
-
----
-## 📅Week 1 : Java Programming Fundamentals
 
 ---
 
