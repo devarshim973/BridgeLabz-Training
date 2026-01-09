@@ -604,3 +604,23 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 19- Runtime Analysis & Big-O](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
 👉 [Scenario-Based Problems-Day6](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day6)
+
+---
+
+### 📅 Day 20 - Scenario-Based OOP Practice
+
+**(Date: 08-Jan-2026)**  
+**Branch:**  `java-oops-practice`
+
+#### ✔ Scenarios Implemented
+- **MediStore** – Pharmacy inventory, sales, and expiry management  
+- **TourMate** – Travel itinerary planning and booking system  
+
+#### ✔ Concepts Used
+- Encapsulation & Access Modifiers  
+- Interfaces & Inheritance  
+- Polymorphism  
+- Constructor-based design and calculations
+
+🔗 **Code Links:**
+👉 [Day 20 - Scenario-Based OOP Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day7)
