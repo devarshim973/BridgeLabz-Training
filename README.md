@@ -137,7 +137,7 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 
 ---
 
-### 📅 Day 4 –  Runtime Analysis & Big-O Notation   
+### 📅 Day 5 –  Runtime Analysis & Big-O Notation   
 **(Date: 07-Jan-2026)**  
 **Branch:** `dsa-practice`
  
@@ -150,6 +150,28 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 - **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
   
 🔗 **Code Links:**
-👉 [Day 4- Runtime Analysis & Big-O](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
+👉 [Day 5- Runtime Analysis & Big-O](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
 
+---
+
+### 📅 Day 6 - Scenario-Based DSA Practice
+**(Date: 10-Jan-2026)**
+**Branch:** `dsa-practice`
+
+## 🔹 Scenarios Implemented
+- **BookShelf** – Library organizer using HashMap and LinkedList  
+- **BrowserBuddy** – Tab history manager using Doubly Linked List and Stack  
+- **AmbulanceRoute** – Emergency navigation using Circular Linked List  
+
+## 🔹 Data Structures Used
+- Singly, Doubly & Circular Linked Lists  
+- Stack  
+- HashMap (with optional HashSet)
+
+## 🔹 Key Focus
+- Real-world problem modeling  
+- Efficient insert, delete, and traversal operations
+
+🔗 **Code Links:**
+👉 [Day 6 - Scenario-Based DSA Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day1)
 
