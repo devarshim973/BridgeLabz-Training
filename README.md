@@ -280,3 +280,20 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 13 - Scenario-Based OOP Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day8)
 
+---
+
+### 📅 Day 14 Scenario-Based OOPS Practice
+**(Date: 12-Jan-2026)**
+**Branch:** `java-oops-practice`
+
+#### 🔹 Summary
+- Solved **3 Java OOP scenario-based problems**
+
+#### 🔹 Java OOP Scenarios Implemented
+- **HomeNest** – Smart home device manager  
+- **BudgetWise** – Personal finance tracker  
+- **GameBox** – Mobile game distribution platform  
+
+
+🔗 **Code Links:**
+👉 [Day 14- Java OOPs Scenario Problems](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day9)
