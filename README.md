@@ -297,3 +297,20 @@ Applied **Core OOP Principles**:
 
 🔗 **Code Links:**
 👉 [Day 14- Java OOPs Scenario Problems](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day9)
+
+---
+
+### 🗓 Day 24  – Java OOPs Scenario-Based Practice  
+**(Date: 13 -Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **PayXpress** – Utility Bill Payment System
+- **EcoWing Bird Sanctuary** – Bird behavior tracking system
+- **Bird Sanctuary (Advanced)** – Annotations and Reflection
+  
+🔗 **Code Links:**
+👉 [Java OOPs Scenario Problems-Day10](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day10)
