@@ -300,7 +300,7 @@ Applied **Core OOP Principles**:
 
 ---
 
-### 🗓 Day 24  – Java OOPs Scenario-Based Practice  
+### 🗓 Day 15  – Java OOPs Scenario-Based Practice  
 **(Date: 13 -Jan-2026)**  
 **Branch:** `java-oops-practice`
 
@@ -313,4 +313,4 @@ Applied **Core OOP Principles**:
 - **Bird Sanctuary (Advanced)** – Annotations and Reflection
   
 🔗 **Code Links:**
-👉 [Java OOPs Scenario Problems-Day10](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day10)
+👉 [Java OOPs Scenario Problems-Day 15](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day10)
