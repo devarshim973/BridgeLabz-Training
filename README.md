@@ -202,7 +202,7 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 
 ---
 
-### 🗓 Day 24  – DSA Scenario-Based Practice  
+### 🗓 Day 8  – DSA Scenario-Based Practice  
 **(Date: 13 -Jan-2026)**  
 **Branch:** `dsa-practice`
  
@@ -219,4 +219,22 @@ Worked on real-world DSA use cases using core data structures.
 - Clean logic using core collections
   
 🔗 **Code Links:**
-👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
+👉 [Day 8- DSA Scenario-Based Practice ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
+
+---
+
+### 🗓 Day 9 – Java Generics Overview & Sorting Scenario Practice
+**(Date: 15-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+#### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
+
+🔗 **Code Links:**   
+👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
