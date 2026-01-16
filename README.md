@@ -57,7 +57,9 @@ BridgeLabz-Training/
 ---
 
 ## 📅Week 1 : Java Programming Fundamentals
----
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ### 📅 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
@@ -193,10 +195,15 @@ BridgeLabz-Training/
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased)
 👉 [Day 8 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
----
-## Week 2: 📅 Introduction to Object Oriented Programming
+</details>
 
 ---
+
+## Week 2: 📅 Introduction to Object Oriented Programming
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
 ### 📅 Day 9 – OOPs Fundamentals (Class & Object), Eclipse IDE & Git Branching 
 *(Date: 26-Dec-2025)*
 
@@ -388,10 +395,13 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
 
+</details>
+
 ---
 ## Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
----
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ### 📅 Day 15 – Data Structures Overview
 **(Date: 02-Jan-2026)**  
