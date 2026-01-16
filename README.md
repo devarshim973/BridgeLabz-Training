@@ -761,8 +761,7 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
   - Course Management System
   - Meal Plan Generator
   - AI-Driven Resume Screening System
-
-#### 🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.
+    
 #### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
 
 🔗 **Code Links:**   
