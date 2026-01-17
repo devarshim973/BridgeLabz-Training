@@ -238,3 +238,23 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 
 🔗 **Code Links:**   
 👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
+
+---
+
+### 📅 Day 10 – Sorting Scenarios & Java Collections Framework  
+**(Date: 16-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+Solved **3 real-world scenario-based sorting problems**:
+
+- **RoboWarehouse** – Shelf loading using **Insertion Sort** (dynamic, streaming inserts)
+- **CinemaHouse** – Movie showtime ordering using **Bubble Sort** (small dataset)
+- **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
+
+**Focus:**  
+- Algorithm suitability based on data size  
+- Time & space efficiency  
+- Real-time vs batch sorting use cases  
+
+🔗 **Code Links:**   
+👉 [DSA Sorting Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day5)
