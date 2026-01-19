@@ -738,7 +738,14 @@ Applied **Core OOP Principles**:
 👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
 👉 [Java OOPs Scenario Problems-Day10](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day10)
 
+</details>
+
 ---
+
+## Week 4: 📘 Java Collections and Stream
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ### 🗓 Day 25 – Java Generics Overview & Sorting Scenario Practice
 **(Date: 15-Jan-2026)**                    
