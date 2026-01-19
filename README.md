@@ -829,7 +829,7 @@ Learned and practiced the **Java Collections Framework** in depth:
 
 ---
 
-### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice)  
+### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice) & Scenario-Based OOP Practice (Java) 
 **(Date: 17-Jan-2026)**  
 **Branch:** `dsa-practice`
 
@@ -849,11 +849,14 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 - **FleetManager** – Combined vehicle maintenance schedules using **Merge Sort**  
   *Focus:* merging sorted sublists, scalability for large datasets
 
-### 🔹 Concepts Covered
-- Bubble Sort, Insertion Sort, Merge Sort
-- Choosing algorithms based on data size & nature
-- Real-time vs batch sorting
-- Efficiency in practical systems
+###🔹 Scenario-Based OOP Practice (Java) 
+*(Date: 17-Jan-2026)*  
+*Branch:* java-oops-practice
 
-🔗 **Code Links:**   
-👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day6)
+Solved *2 OOP-based scenario questions*:
+- *GeoMeasure Solutions* – Line comparison using classes, constructors, encapsulation, methods, and this keyword.
+- *Bag-n-Ball Organizer* – Modeled Bag–Ball relationship using classes, encapsulation, composition, and method design (capacity checks, add/remove/display).
+
+🔗 *Code Links:*   
+👉 [Day 16 - Java OOPs Scenario Problems](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day11)
+👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day6)
