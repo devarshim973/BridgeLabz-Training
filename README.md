@@ -84,3 +84,29 @@ Learned and practiced the *Java Collections Framework* in depth:
 🔗 *Code Links:*   
 👉 [Day 2 - Java Collections Framework](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Collections)
 
+---
+
+### 📅 Day 3 – Java Collections / I-O Streams 
+**(Date: 19-Jan-2026)**   
+
+#### 🔹 `(java-collections-practice)`
+Learned **Java I/O Streams**:
+- Byte Streams & Character Streams
+- File, Buffered, Object, ByteArray, Data, Piped Streams
+- Reader & Writer with encoding
+- **🛠 Best practices:** buffering, try-with-resources, serialization
+
+### 🛠 Practiced Programs:
+1. File read/write using FileInputStream & FileOutputStream  
+2. Large file copy using Buffered Streams (performance comparison)  
+3. Console input → file storage  
+4. Object serialization & deserialization  
+5. Image to byte array conversion  
+6. Uppercase to lowercase file filter  
+7. DataStreams for primitive data  
+8. PipedStreams (inter-thread communication)  
+9. Read large file line-by-line (error filter)  
+10. Word frequency counter (Top 5 words)
+
+🔗 **Code Links:**  
+👉 [Day 3 - Java Streams](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Stream)
