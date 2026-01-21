@@ -900,3 +900,32 @@ Learned **Java I/O Streams**:
 👉 [Day 28 - Java Streams](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Stream)
 👉 [Sorting Algorithm Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day7)
 👉 [Java OOPs Scenario Problems](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day12/AddressBookSystem)
+
+---
+
+### 📅 Day 29 – DSA, Logic Building & Exception Handling  
+**(Date: 20-jan-2026)**
+
+#### 🔹 DSA – Scenario Based Sorting (dsa-practice)
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+#### 🔹 Logical Problem (dsa-practice)
+- **Password Generating Key**  
+  Implemented ASCII-based string transformation with validation, filtering even ASCII values, reversing, and position-based casing.
+
+#### 🔹 Java Exception Handling (java-collections-practice)
+Learned and practiced:
+- Checked & Unchecked Exceptions  
+- Custom Exceptions (extending `Exception`)
+- `try-catch`, `try-catch-finally`
+- `try-with-resources`
+- `throw` and `throws`
+- Exception handling best practices
+
+🔗 **Code Links:**  
+👉 [Day 29 - Java Exceptions](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Exceptions)
+👉 [Sorting Algorithm Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day8)
+👉 [DSA Logical Question](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Assessment)
