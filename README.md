@@ -289,3 +289,37 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 
 🔗 **Code Links:**   
 👉 [Day 11 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day6)
+
+---
+
+### 📅 Day 12 – DSA, OOPS & Java Collections  
+**(Date: 19-Jan-2026)**   
+
+#### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+🔗 **Code Links:**  
+👉 [Sorting Algorithm Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day7)
+
+---
+
+### 📅 Day 13 – DSA, Logic Building & Exception Handling  
+**(Date: 20-jan-2026)**
+
+#### 🔹 DSA – Scenario Based Sorting (dsa-practice)
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+#### 🔹 Logical Problem (dsa-practice)
+- **Password Generating Key**  
+  Implemented ASCII-based string transformation with validation, filtering even ASCII values, reversing, and position-based casing.
+
+🔗 **Code Links:**  
+👉 [Sorting Algorithm Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day8)
+👉 [DSA Logical Question](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Assessment)
+
