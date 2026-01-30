@@ -1,130 +1,89 @@
-## 🗓 Introduction to Java Collections & Stream
+## 📅 IO Programming (CSV & JSON Files Handling)
+
 ---
 
-### 🗓 Day 1 – Java Generics Overview 
-**(Date: 15-Jan-2026)**                    
-**Branch:** `java-collections-practice`
+### 📅 Day 1 – CSV Data Handling & Scenario-Based Java Practice  
+**(Date: 23-Jan-2026)**          
+**Branche:** `java-iostreams-practice`
 
-Studied the Java Collections Framework to manage groups of objects efficiently using built-in data structures. Learned the difference between Collection and Map interfaces and their real-world use cases.
-
-## 📁Project Structure
-
-```
+📂 Project Structure
+````text
 BridgeLabz-Training/
 │
-├── 📁 java-collections-practice/
+├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaCollections/
+│   │   └── 📁 JavaIOStreams/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 generics/
-│   │               ├── 📁 collections/
-│   └── 📁 scenario-based-codebase/
-│
+│   │               ├── 📁 CSV Data Handling/
+|   |               └── 📁 JSON Data/
+|   └── 📁 scenario-based-codebase/
+|
 └── README.md
-```
+````
+#### 🔹Java I/O Streams – CSV Data Handling
+Learned how to work with **CSV (Comma-Separated Values)** files for real-world data processing.
 
-#### 🔹 Created a new branch `java-collections-practice`
-- Learned and applied Java Generics best practices:
-  - Generic classes, methods, and constructors
-  - Bounded type parameters and wildcards
-  - Type safety and reusability
-
-#### 🔹 Topics Learned
-- Type safety with generics
-- Generic classes, methods, and constructors
-- Upper & lower bounded wildcards
-- Bounded type parameters
-- Avoiding raw types and type erasure pitfalls
-- Designing clean and reusable generic APIs
-  
-#### 🔹 Implemented real-world generic systems:
-  - Smart Warehouse Management
-  - Online Marketplace
-  - Course Management System
-  - Meal Plan Generator
-  - AI-Driven Resume Screening System
+### Topics Covered
+- CSV fundamentals (rows, columns, delimiters)
+- Reading CSV using:
+  - `BufferedReader` (manual parsing)
+  - **OpenCSV** library
+- Writing CSV using:
+  - `BufferedWriter`
+  - `CSVWriter` (OpenCSV)
+- Mapping CSV data to Java objects (`CsvToBean`)
+- CSV data validation using **Regex**
+- Handling missing/invalid fields with exceptions
 
 🔗 **Code Links:**  
-👉 [Day 1 - Java Generics Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Generics)
+👉 [Day 1 - CSV Data Handling](https://github.com/devarshim973/BridgeLabz-Training/tree/Java-iostreams-practice/Java-iostreams-practice/gcr-codebase/JavaIOStreamPractice/src/com/CSVDataHandling)
 
 ---
 
-### 📅 Day 2 – Java Collections Framework  
-*(Date: 16-Jan-2026)* 
-*Branch:* java-collections-practice
+### 📅 Day 2 – JSON Data Handling & Scenario-Based Java Practice  
+**(Date: 24-Jan-2026)**         
+**Branche:** `java-iostreams-practice`
 
-Learned and practiced the *Java Collections Framework* in depth:
+#### 🔹 JSON Data Handling in Java
+Learned **JSON (JavaScript Object Notation)** for structured data exchange and processing.
 
-#### ✔ Core Topics Covered
-- Collection hierarchy: List, Set, Queue, Map
-- Implementations:
-  - *List:* ArrayList, LinkedList, Vector
-  - *Set:* HashSet, LinkedHashSet, TreeSet
-  - *Queue/Deque:* PriorityQueue, ArrayDeque
-  - *Map:* HashMap, LinkedHashMap, TreeMap, Hashtable
-- Performance comparison & real-world use cases
-- Best practices: generics, choosing correct collection, avoiding legacy misuse
+#### Topics Covered
+- JSON fundamentals: objects, arrays, nested structures
+- Creating JSON using:
+  - `org.json`
+  - **Gson**
+  - **Jackson**
+- Reading JSON:
+  - Mapping JSON → POJO (`ObjectMapper.readValue`)
+  - Dynamic parsing using `JsonNode`
+- Writing JSON:
+  - Java objects → JSON files
+- Nested JSON & JSON arrays
+- JSON Schema Validation for structure and data integrity
 
-#### ✔ Practice Problems Implemented
-- *List operations:* reverse, rotate, frequency count, remove duplicates
-- *Set operations:* union, intersection, subsets, sorting
-- *Queue problems:* reverse queue, triage system, circular buffer
-- *Map problems:* word frequency, merge maps, grouping objects
-- *Mini systems:*
-  - Insurance Policy Management
-  - Banking System
-  - Voting System
-  - Shopping Cart
+#### Key Takeaways
+- Jackson is best for **enterprise-grade JSON processing**
+- Gson is lightweight and simple
+- JSON Schema ensures **data consistency and validation**
 
-#### ✅ Summary
-- Built strong fundamentals of *Java Collections*
-- Solved extensive *hands-on problems* across List, Set, Queue, and Map
-
-🔗 *Code Links:*   
-👉 [Day 2 - Java Collections Framework](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Collections)
+🔗 **Code Links:**  
+👉 [Day 2 - JSON Data](https://github.com/devarshim973/BridgeLabz-Training/tree/Java-iostreams-practice/Java-iostreams-practice/gcr-codebase/JavaIOStreamPractice/src/com/JSON)
 
 ---
 
-### 📅 Day 3 – Java Collections / I-O Streams 
-**(Date: 19-Jan-2026)**   
+### 📅 Day 3 – IOstreams Based Scenario Problems  
+**(Date: 27-Jan-2026)**            
+**Branch:** `java-iostreams-practice`
 
-#### 🔹 `(java-collections-practice)`
-Learned **Java I/O Streams**:
-- Byte Streams & Character Streams
-- File, Buffered, Object, ByteArray, Data, Piped Streams
-- Reader & Writer with encoding
-- **🛠 Best practices:** buffering, try-with-resources, serialization
+#### 🔹 Scenario-Based Implementations
 
-### 🛠 Practiced Programs:
-1. File read/write using FileInputStream & FileOutputStream  
-2. Large file copy using Buffered Streams (performance comparison)  
-3. Console input → file storage  
-4. Object serialization & deserialization  
-5. Image to byte array conversion  
-6. Uppercase to lowercase file filter  
-7. DataStreams for primitive data  
-8. PipedStreams (inter-thread communication)  
-9. Read large file line-by-line (error filter)  
-10. Word frequency counter (Top 5 words)
+#### Java I/O + Annotations + Reflection
+- **HealthCheckPro** – API metadata scanning using custom annotations & reflection
+- **MarkMate** – CSV marks processing and JSON report generation
+- **EventTracker** – Audit logging via annotations, reflection, and JSON output
 
 🔗 **Code Links:**  
-👉 [Day 3 - Java Streams](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Stream)
+👉 [Day 3 - IOStreams Scenarios-Based](https://github.com/devarshim973/BridgeLabz-Training/tree/Java-iostreams-practice/Java-iostreams-practice/Scenario-based-codebased/IostreamScenarioPractice/src/com/day1)
 
 ---
-
-### 📅 Day 4 – Exception Handling /java-collections
-**(Date: 20-jan-2026)**
-
-#### 🔹 Java Exception Handling (java-collections-practice)
-Learned and practiced:
-- Checked & Unchecked Exceptions  
-- Custom Exceptions (extending `Exception`)
-- `try-catch`, `try-catch-finally`
-- `try-with-resources`
-- `throw` and `throws`
-- Exception handling best practices
-
-🔗 **Code Links:**  
-👉 [Day 4 - Java Exceptions](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Exceptions)
-
