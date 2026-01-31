@@ -56,7 +56,7 @@ BridgeLabz-Training/
 ```
 ---
 
-## 📅Week 1 : Java Programming Fundamentals
+## 📅 Week 1 : 📘 Java Programming Fundamentals
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -199,7 +199,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: 📅 Introduction to Object Oriented Programming
+## 📅 Week 2: 📘 Introduction to Object Oriented Programming
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -398,7 +398,7 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 </details>
 
 ---
-## Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
+## 📅 Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -742,7 +742,7 @@ Applied **Core OOP Principles**:
 
 ---
 
-## Week 4: 📘 Java Collections and Stream
+## 📅 Week 4: 📘 Java Collections and Stream
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -1006,7 +1006,7 @@ Solved **3 real-world AVL Tree problems**:
 
 </details>
 
-## 📅 Week 5 - IO Programming (CSV & JSON Files Handling)
+## 📅 Week 5 - 📘 IO Programming (CSV & JSON Files Handling)
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -1092,7 +1092,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 
 </details>
 
-## 📅 Week 6 - Java 8 & its Features - Progress Log
+## 📅 Week 6 - 📘 Java 8 & its Features - Progress Log
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
