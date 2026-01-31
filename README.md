@@ -1001,3 +1001,139 @@ Solved **3 real-world AVL Tree problems**:
 👉 [Day 31 - Annotations](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/AnnotationsReflection/Annotations)
 👉 [Reflection](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/AnnotationsReflection/Reflection)
 👉 [Tree Based Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day10)
+
+---
+
+</details>
+
+## 📅 Week 5 - IO Programming (CSV & JSON Files Handling)
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 32 – CSV Data Handling & Scenario-Based Java Practice  
+**(Date: 23-Jan-2026)**          
+**Branche:** `java-iostreams-practice`
+
+#### 🔹Java I/O Streams – CSV Data Handling
+Learned how to work with **CSV (Comma-Separated Values)** files for real-world data processing.
+
+### Topics Covered
+- CSV fundamentals (rows, columns, delimiters)
+- Reading CSV using:
+  - `BufferedReader` (manual parsing)
+  - **OpenCSV** library
+- Writing CSV using:
+  - `BufferedWriter`
+  - `CSVWriter` (OpenCSV)
+- Mapping CSV data to Java objects (`CsvToBean`)
+- CSV data validation using **Regex**
+- Handling missing/invalid fields with exceptions
+
+#### 🔹Scenario-Based Java Practice | `java-collections-practice`
+Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Regex, and Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **ResumeAnalyzer** – Resume parsing, regex-based extraction, keyword ranking
+- **TravelLog** – Object serialization, search using regex, stats using Map & Set
+- **FeedbackGuru** – Feedback analysis, rating extraction, category grouping
+- **CodeRepoCleaner** – Java file scanning, regex validation, file categorization
+- **ExamScanner** – CSV parsing, answer validation, scoring using Maps & PriorityQueue
+
+🔗 **Code Links:**  
+👉 [Day 32 - CSV Data Handling](https://github.com/devarshim973/BridgeLabz-Training/tree/Java-iostreams-practice/Java-iostreams-practice/gcr-codebase/JavaIOStreamPractice/src/com/CSVDataHandling)
+👉 [Collections Scenarios-Based](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/Day1)
+
+---
+
+### 📅 Day 33 – JSON Data Handling & Scenario-Based Java Practice  
+**(Date: 24-Jan-2026)**         
+**Branche:** `java-iostreams-practice`
+
+#### 🔹 JSON Data Handling in Java
+Learned **JSON (JavaScript Object Notation)** for structured data exchange and processing.
+
+#### Topics Covered
+- JSON fundamentals: objects, arrays, nested structures
+- Creating JSON using:
+  - `org.json`
+  - **Gson**
+  - **Jackson**
+- Reading JSON:
+  - Mapping JSON → POJO (`ObjectMapper.readValue`)
+  - Dynamic parsing using `JsonNode`
+- Writing JSON:
+  - Java objects → JSON files
+- Nested JSON & JSON arrays
+- JSON Schema Validation for structure and data integrity
+
+#### Key Takeaways
+- Jackson is best for **enterprise-grade JSON processing**
+- Gson is lightweight and simple
+- JSON Schema ensures **data consistency and validation**
+
+#### 🔹 Scenario-Based Practice | `java-collections-practice`
+Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams, Regex, JSON/CSV, and Custom Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **MedInventory** – CSV inventory parsing, expiry detection, low-stock alerts
+- **ChatLogParser** – Chat analysis using regex, TreeMap sorting, filters
+- **SongVault** – Music file parsing, grouping, stream-based filtering
+- **ExamResultUploader** – CSV validation, subject-wise ranking, PriorityQueue
+- **DealTracker** – Deal parsing, expiry checks, duplicate prevention, sorting
+
+🔗 **Code Links:**  
+👉 [Day 33 - JSON Data](https://github.com/devarshim973/BridgeLabz-Training/tree/Java-iostreams-practice/Java-iostreams-practice/gcr-codebase/JavaIOStreamPractice/src/com/JSON)
+👉 [Collections Scenarios-Based](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/Day2)
+
+---
+
+</details>
+
+## 📅 Week 6 - Java 8 & its Features - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 34 – Java 8 Features & Advanced Java Practice  
+**(Date: 27-Jan-2026)**            
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Java 8 Core Concepts Learned
+#### Lambda Expressions
+- Learned **lambda expressions** as concise implementations of functional interfaces (SAM).
+- Understood **target typing**, **type inference**, and **effectively final variables**.
+- Compared **anonymous classes vs lambdas** (`this` behavior).
+- Applied lambdas in:
+  - Dynamic sorting (`Comparator`), Filtering (`Predicate`), Stream pipelines (`filter`, `map`, `collect`)
+
+#### Method References
+- Studied method references as readable alternatives to lambdas.
+- Types covered:
+  - Static (`Class::method`), Instance (`obj::method`), Unbound (`Class::instanceMethod`), Constructor (`Class::new`)
+- Learned overload ambiguity handling and when to prefer lambdas.
+
+#### Interfaces & Java 8 Enhancements
+- Deep understanding of **@FunctionalInterface** and SAM conversion.
+- Used built-in interfaces:
+  - `Supplier`, `Consumer`, `Function`, `Predicate`
+  - `UnaryOperator`, `BinaryOperator`, `Comparator`
+- Created custom functional interfaces with default methods.
+- **Default methods** for backward compatibility.
+- **Static methods** for interface-level utilities.
+- Method resolution rules (class wins, conflict resolution).
+- Marker interfaces vs **annotations** (modern alternative).
+
+#### Java I/O + Annotations + Reflection
+- **HealthCheckPro** – API metadata scanning using custom annotations & reflection
+- **MarkMate** – CSV marks processing and JSON report generation
+- **EventTracker** – Audit logging via annotations, reflection, and JSON output
+
+🔗 **Code Links:**  
+👉 [Day 34 - Lamda Expressions](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/LambdaExpressions)
+👉 [Method References](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/FunctionalInterfaces/DefaultMethodsInterfaces)
+👉 [Functional Interfaces](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/FunctionalInterfaces)
