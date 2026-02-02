@@ -1137,3 +1137,110 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 👉 [Day 34 - Lamda Expressions](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/LambdaExpressions)
 👉 [Method References](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/FunctionalInterfaces/DefaultMethodsInterfaces)
 👉 [Functional Interfaces](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/Java8-Programming-practice/gcr-codebase/Java8Programming/src/FunctionalInterfaces)
+
+---
+
+### 📅 Day 35 – Stream API, Collectors & forEach (Java 8)
+**(Date: 28-Jan-2026)** 
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Topics Learned
+- **Stream API:** functional-style data processing using  
+  `source → intermediate ops → terminal op`
+  - Intermediate: `filter`, `map`, `sorted`, `distinct`, `limit`
+  - Terminal: `collect`, `forEach`, `reduce`, `count`
+  - Lazy evaluation, stateless vs stateful ops
+- **Parallel Streams:** `parallelStream()`, ForkJoinPool, ordering with `forEachOrdered`
+- **forEach():** terminal operation using `Consumer`
+- **Collectors:** data transformation, aggregation, grouping & partitioning
+
+#### 🔹 Collectors Practiced
+- `toList()`, `toSet()`, `toMap()`
+- `joining()`
+- `groupingBy()`
+- `partitioningBy()`
+- `summarizingInt()`
+
+#### 🔹 Scenario-Based Practice (Employee Stream Problems)
+Solved **21 real-time Stream API questions**, including:
+- Male/Female count & average age/salary
+- Department-wise employee count & average salary
+- Highest, lowest, 2nd/3rd highest & lowest paid employees
+- Employees joined after 2015
+- Top 5 highest & lowest paid employees
+- Experience-based and department-specific queries
+
+🔗 **Code Links:**  
+👉 [Day 35 - Stream API](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/StreamAPI)
+
+---
+
+### 📅 Day 36 – Collectors & Java 8 Features
+**(Date: 29-Jan-2026)**       
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Topics Learned
+- **Collectors:** Accumulating stream results
+  - `toList()`, `toSet()`, `toMap()`
+  - `joining()`
+  - `groupingBy()`
+  - `partitioningBy()`
+  - `summarizingInt()`
+- **forEach():** Iteration using `Consumer`
+- **Parallel Streams:** `parallelStream()`, `forEachOrdered()`
+- Performance considerations & ForkJoinPool basics
+
+#### 🔹 Scenario-Based Practice
+- Solved **10 real-time Employee Stream problems**, including:
+  - Gender-wise count & salary analysis
+  - Department-wise grouping & averages
+  - Highest/lowest & top-N salary queries
+  - Experience-based and joining-year filters
+
+🔗 **Code Link:**  
+👉 [Day 36 - Collectors](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/Collectors)
+
+---
+
+### 📅 Day 37 – Lambda Expressions & Stream API Scenarios(Java 8)
+**(Date: 30-Jan-2026)**        
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Work Done
+- Practiced **Lambda Expressions** with real-time scenarios (Student, Employee, Banking, E-Commerce)
+- Used lambdas for **sorting, filtering, calculations, validation, and threading**
+- Solved **advanced Stream API problems** on Students & Employees
+- Applied `filter`, `map`, `sorted`, `limit`, `count`, `flatMap`
+- Performed **grouping, aggregation, min/max, ranking, and partitioning**
+- Converted collections to **Map** and handled **top/bottom N queries**
+
+🔗 **Code Link:** 
+👉 [Day 37 - Java8 Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
+
+---
+
+### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
+**Date: 31-Jan-2026)**     
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Design Principles Covered
+- **SOLID Principles:** SRP, OCP, LSP, ISP, DIP  
+- **Clean Code Principles:** DRY, KISS, YAGNI  
+- Focus on maintainability, scalability, and loose coupling
+
+#### 🔹 GoF Design Patterns
+- **Singleton Pattern** – controlled object creation
+- **Factory Pattern** – abstraction of object instantiation
+- **Builder Pattern** – step-by-step object construction
+- **Observer Pattern** – event-based communication
+- Introduction to **UML diagrams** for pattern representation
+
+#### 🔹 Java 8 – Optional Class
+- Used to eliminate `NullPointerException`
+- Practiced `of()`, `ofNullable()`, `isPresent()`, `ifPresent()`
+- Applied `orElse()`, `orElseGet()`, `orElseThrow()` for safe defaults
+- Solved real-world scenarios across **Student, Employee, Banking,
+  E-Commerce, and System utility** modules
+
+🔗 **Code Link:** 
+👉 [Day 38 - Design Patterns](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice)
