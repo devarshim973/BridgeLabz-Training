@@ -1,0 +1,23 @@
+package com.Day1;
+
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+
+public class Secondpay {
+	public static void main(String[] args) {
+		List<Employee> employee= Arrays.asList(
+				new Employee(1, "Aman", 25, "Male", "IT", 2020, 50000),
+	            new Employee(2, "Neha", 28, "Female", "HR", 2019, 45000),
+	            new Employee(3, "Ayush", 30, "Male", "Finance", 2018, 60000),
+	            new Employee(4, "Pooja", 26, "Female", "manager", 2021, 48000),
+	            new Employee(5, "nikhil", 27, "Male", "accountent", 2022, 52000)
+				);
+	employee.stream()
+	.sorted(Comparator.comparingDouble(Employee::getSalary).reversed())
+			.skip(1)
+			.findFirst()
+			.ifPresent(i->System.out.println("second payment"+i));
+		
+	}
+}
