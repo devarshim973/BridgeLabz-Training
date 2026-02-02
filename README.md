@@ -50,6 +50,6 @@ BridgeLabz-Training/
 - Marker interfaces vs **annotations** (modern alternative).
 
 🔗 **Code Links:**  
-👉 [Lamda Expressions Day 1] (https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/LambdaExpressions)
+👉 [Day 1 - Lamda Expressions](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/LambdaExpressions)
 👉 [Method References](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/FunctionalInterfaces)
 👉 [Functional Interfaces](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/FunctionalInterfaces)
