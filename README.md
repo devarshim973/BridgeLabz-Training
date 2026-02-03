@@ -124,6 +124,7 @@ BridgeLabz-Training/
 |
 └── README.md
 ```
+
 ---
 
 ## 📅 Week 1 : 📘 Java Programming Fundamentals
@@ -275,6 +276,8 @@ BridgeLabz-Training/
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
+
+---
 
 ### 📅 Day 9 – OOPs Fundamentals (Class & Object), Eclipse IDE & Git Branching 
 *(Date: 26-Dec-2025)*
@@ -470,10 +473,13 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 </details>
 
 ---
+
 ## 📅 Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
+
+---
 
 ### 📅 Day 15 – Data Structures Overview
 **(Date: 02-Jan-2026)**  
@@ -818,6 +824,8 @@ Applied **Core OOP Principles**:
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
+
+---
 
 ### 🗓 Day 25 – Java Generics Overview & Sorting Scenario Practice
 **(Date: 15-Jan-2026)**                    
@@ -1291,6 +1299,15 @@ Solved **21 real-time Stream API questions**, including:
 
 ---
 
+</details>
+
+## 📅 Week 7 - 📘 Solution Designing - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
 **Date: 31-Jan-2026)**     
 **Branch:** `java8-programming-practice`
@@ -1316,3 +1333,8 @@ Solved **21 real-time Stream API questions**, including:
 
 🔗 **Code Link:** 
 👉 [Day 38 - Design Patterns](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice)
+
+</details>
+
+---
+
