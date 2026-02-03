@@ -1287,7 +1287,7 @@ Solved **21 real-time Stream API questions**, including:
 - Converted collections to **Map** and handled **top/bottom N queries**
 
 🔗 **Code Link:** 
-👉 [Day 37 - Java8 Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
+👉 [Day 37 - Java8 Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day1)
 
 ---
 
