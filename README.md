@@ -1,57 +1,127 @@
-# BridgeLabz-Training
+# BridgeLabz-Training🎯
 
-This repository contains Java practice work completed during the BridgeLabz Training Program, focusing on building strong programming fundamentals and problem-solving skills.
-- Core Java concepts and hands-on practice
-- Object-Oriented Programming (OOPS) principles and implementations
-- Data Structures & Algorithms (DSA) using Java
-- Well-organized, concept-wise project structure
-- LeetCode and scenario-based problem solutions
+--- 
+
+> 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
+> 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
+
+![Java](https://img.shields.io/badge/Java-Core-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![DSA](https://img.shields.io/badge/DSA-Practice-blue)
 
 ---
 
-## 📂 Project Structure 
+## Training Overview📈💡
+This repository documents my learning journey at BridgeLabz pre-onboarding training program as part of the **Capgemini** onboarding process, spanning from December 15, 2025 to present.
+The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
+
+---
+
+## ♨️Repository Branches :-
+[``🔹 core-java-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice)
+**➡️ Week 1:** Fundamentals of Java Programming
+
+[``🔹 java-oops-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice)
+**➡️ Week 2:** Object-Oriented Programming
+
+[``🔹 dsa-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice)
+**➡️ Week 3:** Data Structures & Algorithms
+
+[``🔹 java-collections-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice)
+**➡️ Week 4:** Java Collections & Streams
+
+[``🔹 java-iostreams-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice)
+**➡️ Week 5:** IO Programmming, Data & File-Handling
+
+[``🔹 java8-programming-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice)
+**➡️ Week 6:** Java-8 and it's feature
+
+---
+
+## 📁Project Structure
 
 ```
 BridgeLabz-Training/
 │
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── programming-prerequisites/
-│   │   ├── programming-elements/
-│   │   ├── control-flows/
-│   │   ├── arrays/
-│   │   ├── methods/
-│   │   ├── strings/
-│   │   └── extras/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extra/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 │
-├── java-oops-practice/
-│   ├── gcr-codebase/
-│   │   └── JavaOopsConcepts/
-│   │       └── src/
-│   │           └── com/
-│   │               ├── classandobject/
-│   │               ├── constructor/
-│   │               ├── finalandstatic/
-│   │               ├── objectmodeling/
-│   │               ├── inheritance/
-│   │               └── encapsulation/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 keywords/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 encapsulation/
+│   │               ├── 📁 inheritance/
+│   │               ├── 📁 abstraction/
+│   │               └── 📁 polymorphism/
+│   └── 📁 scenario-based-codebase/
 │
-├── dsa-practice/
-│   ├── gcr-codebase/
-│   │   └── JavaDsaPractice/
-│   │       └── src/
-│   │           └── com/
-│   │               ├── linkedlist/
-│   │               ├── stacksandqueues/
-│   │               ├── hashmapsandfunctions/
-│   │               └── sorting/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaCollections/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/
+│   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 exceptions/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 JUnit/
+│   │               ├── 📁 reflection/
+│   │               └── 📁 annotations/
+│   └── 📁 scenario-based-codebase/
 │
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaIOStreams/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 CSV Data Handling/
+|   |               └── 📁 JSON Data/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Programming/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 LamdaExpressions/
+|   |               ├── 📁 MethodReferences/
+|   |               └── 📁 interfaces/
+|   └── 📁 scenario-based-codebase/
+|
 └── README.md
 ```
 ---
@@ -60,6 +130,8 @@ BridgeLabz-Training/
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
+
+---
 
 ### 📅 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
