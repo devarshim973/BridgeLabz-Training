@@ -268,9 +268,9 @@ BridgeLabz-Training/
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/Scenario-based-codebased)
 👉 [Day 8 – Leetcode-Based Problems ](https://github.com/devarshim973/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
-</details>
-
 ---
+
+</details>
 
 ## 📅 Week 2: 📘 Introduction to Object Oriented Programming
 
@@ -470,9 +470,9 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day1)
 
-</details>
-
 ---
+
+</details>
 
 ## 📅 Week 3: 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
@@ -816,9 +816,9 @@ Applied **Core OOP Principles**:
 👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
 👉 [Java OOPs Scenario Problems-Day10](https://github.com/devarshim973/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario%20based-codebased/JavaScenarioBased/src/com/Day10)
 
-</details>
-
 ---
+
+</details>
 
 ## 📅 Week 4: 📘 Java Collections and Stream
 
