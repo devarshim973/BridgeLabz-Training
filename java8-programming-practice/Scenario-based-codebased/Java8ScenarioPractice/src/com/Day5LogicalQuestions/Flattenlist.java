@@ -1,0 +1,24 @@
+package com.Day5LogicalQuestions;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class Flattenlist {
+
+    public static void main(String[] args) {
+
+        List<List<Integer>> list =
+                List.of(
+                        List.of(1, 2),
+                        List.of(3, 4),
+                        List.of(5)
+                );
+
+        List<Integer> result =
+                list.stream()
+                    .flatMap(innerList -> innerList.stream())
+                    .collect(Collectors.toList());
+
+        System.out.println(result);
+    }
+}
