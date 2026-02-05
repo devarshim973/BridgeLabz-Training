@@ -8,7 +8,7 @@ public class DescendingOrder {
 public static void main(String[] args) {
 	List<Integer> number=List.of(5,1,9,3);
 	number.stream()
-	.sorted(Comparator.reverseOrder())
+	.sorted()
 	.collect(Collectors.toList())
 	.forEach(System.out::println);
 }
