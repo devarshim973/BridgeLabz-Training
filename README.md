@@ -1264,6 +1264,7 @@ Solved **21 real-time Stream API questions**, including:
 
 🔗 **Code Links:**  
 👉 [Day 35 - Stream API](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/StreamAPI)
+👉 [Day 35 - Java8 Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day1)
 
 ---
 
@@ -1291,6 +1292,7 @@ Solved **21 real-time Stream API questions**, including:
 
 🔗 **Code Link:**  
 👉 [Day 36 - Collectors](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8practice/src/com/Collectors)
+👉 [Day 36 - Java8 Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day2)
 
 ---
 
@@ -1307,7 +1309,7 @@ Solved **21 real-time Stream API questions**, including:
 - Converted collections to **Map** and handled **top/bottom N queries**
 
 🔗 **Code Link:** 
-👉 [Day 37 - Java8 Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day1)
+👉 [Day 37 - Java8 Scenarios]([https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day1](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day3))
 
 ---
 
@@ -1344,9 +1346,92 @@ Solved **21 real-time Stream API questions**, including:
   E-Commerce, and System utility** modules
 
 🔗 **Code Link:** 
-👉 [Day 38 - Design Patterns](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice)
-
-</details>
+👉 [Day 38 - Design Patterns](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/DesignPatterns/SmartUniversityLibraryManagementSystem))
 
 ---
+
+### 📅 Day 39 – Java Multithreading
+**(Date: 02-Feb-2026)**                   
+**Branch:** `java-design-pattern-practice`
+
+#### 🔹 Core Concepts
+- **Process:** OS-level execution unit containing one or more threads  
+- **Thread:** Lightweight sub-process; smallest unit of execution  
+- Threads share process memory but have independent execution paths  
+- **Multithreading:** Enables parallel task execution and better CPU utilization
+
+#### 🔹 Pros & Cons
+**Pros:** Better resource usage, faster execution, responsive GUI, fault isolation  
+**Cons:** Complex code, synchronization overhead, debugging difficulty, deadlock & starvation risks
+
+#### 🔹 Thread Lifecycle
+- New → Runnable → Running → Blocked/Waiting → Terminated  
+- Managed by JVM thread scheduler
+
+#### 🔹 Thread Creation
+- Extending `Thread` class  
+- Implementing `Runnable` interface (preferred for flexibility)
+
+#### 🔹 Thread Class Highlights
+- Methods practiced: `start()`, `run()`, `sleep()`, `join()`, `yield()`, `isAlive()`  
+- Thread naming, priority, interruption handling  
+- **User vs Daemon threads** and JVM termination behavior  
+- Explored `Thread.State`, `currentThread()`, and lifecycle monitoring
+
+🔗 **Code Link:** 
+👉 [Day 39 - Multithreading](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/MultiThreading)
+
+---
+
+### 📅 Day 40 – Java 8 Stream API (Scenario-Based) & Multithreading
+**(Date: 03-Feb-2026)**  
+**Branches:** `java8-programming-practice`, `java-design-pattern-practice`
+
+#### 🔹 Java 8 Stream API – Scenario Practice
+Solved **30+ real-world logical problems using Java Streams only**, focusing on:
+- Character & word frequency analysis
+- First / all non-repeating characters
+- Removing duplicates & filtering characters
+- String cleansing (alphabets, digits, alphanumeric)
+- Numeric operations: sum, max, top-K, even/odd partitioning
+- List & Map transformations, sorting, grouping, flattening
+- Advanced queries like kth smallest, longest string, intersections
+
+Emphasis on **filter, map, flatMap, distinct, sorted, limit, reduce, Collectors**
+
+#### 🔹 Multithreading Scenario – Bank Transactions
+Implemented a **thread-safe banking system** with:
+- Concurrent **deposit & withdrawal** operations
+- Multiple customers as independent threads
+- Proper **synchronization** to prevent race conditions
+- Correct balance updates under concurrent access
+- Driver program demonstrating safe parallel execution
+
+✔ Strengthened problem-solving using **Streams + concurrency fundamentals**  
+✔ Practiced interview-oriented, real-time scenarios
+
+🔗 **Code Link:** 
+👉 [Day 40 - Stream API Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day5LogicalQuestions)
+👉 [Multithreading Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice)
+
+---
+
+### 📅 Day 41 – Java 8 Stream API (Conversions)
+**(Date: 04-Feb-2026)**
+**Branch:** `java8-programming-practice`
+
+#### 🔹 What I Practiced
+Solved **conversion-based logical problems using Java 8 Streams**, focusing on transforming data between different collection types.
+
+#### 🔹 Key Conversions
+- **List ↔ Map:** indexing, frequency count, grouping, handling duplicate keys
+- **Map ↔ List:** keys, values, entries, sorting & filtering
+- **List ↔ Set:** removing duplicates, ordering, sorting
+- **Array ↔ Collections:** 1D/2D arrays, flattening, distinct mapping
+- **Object Conversions:** grouping, flattening, composite keys
+- **Other:** Stream/Optional conversions, formatted strings
+
+✔ Strengthened hands-on skills with `Collectors`, `map`, `flatMap`, and `groupingBy`
+
+👉 [Day 41 - Stream API Logical Questions](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day4)
 
