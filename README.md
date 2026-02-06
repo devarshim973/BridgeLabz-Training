@@ -78,3 +78,19 @@ BridgeLabz-Training/
 🔗 **Code Link:** 
 👉 [Day 2 - Multithreading](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/MultiThreading)
 
+---
+
+### 📅 Day 3 – Java Multithreading Scenarios
+*(Date: 03-Feb-2026)*  
+*Branches:* java-design-pattern-practice
+
+#### 🔹 Multithreading Scenario – Bank Transactions
+Implemented a *thread-safe banking system* with:
+- Concurrent *deposit & withdrawal* operations
+- Multiple customers as independent threads
+- Proper *synchronization* to prevent race conditions
+- Correct balance updates under concurrent access
+- Driver program demonstrating safe parallel execution
+
+🔗 *Code Link:* 
+👉 [Day 3 - Multithreading Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/Scenario-based-codebase/SolutionDesignScenarios/src/com/multithreadingScenario/BankTransactions)
