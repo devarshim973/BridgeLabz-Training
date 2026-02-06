@@ -1435,3 +1435,26 @@ Solved **conversion-based logical problems using Java 8 Streams**, focusing on t
 
 👉 [Day 41 - Stream API Logical Questions](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day4)
 
+---
+
+### 📅 Day 42 – Logical Problem (C# Console Application)
+**(Date: 05-Jan-2026)**
+
+#### 🔹 Problem Overview
+Implemented a **menu-driven console application** for *StreamBuzz*, a digital content platform to track creators’ engagement over 4 weeks.
+
+#### 🔹 Key Functionalities
+- Register creators with weekly like counts
+- Identify top-performing creators based on a like threshold
+- Calculate overall average weekly likes
+- Graceful program termination with exit message
+
+#### 🔹 Core Concepts Used
+- Classes & public properties
+- Arrays and Lists
+- Dictionary-based aggregation
+- Conditional logic & looping
+- User input handling and formatted output
+
+✔ Focused on clean logic, data aggregation, and rule-based result generation
+
