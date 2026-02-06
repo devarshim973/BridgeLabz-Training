@@ -1412,7 +1412,7 @@ Implemented a **thread-safe banking system** with:
 
 🔗 **Code Link:** 
 👉 [Day 40 - Stream API Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/Scenario-based-codebased/Java8ScenarioPractice/src/com/Day5LogicalQuestions)
-👉 [Multithreading Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice)
+👉 [Multithreading Scenarios](https://github.com/devarshim973/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/Scenario-based-codebase/SolutionDesignScenarios/src/com/multithreadingScenario/BankTransactions)
 
 ---
 
