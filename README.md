@@ -1458,3 +1458,28 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 
 ✔ Focused on clean logic, data aggregation, and rule-based result generation
 
+---
+
+### 📅 Day 43 – MySQL & JDBC Fundamentals  
+**Date:** 06-Jan-2026  
+**Branch:** `mysql-jdbc-practice`
+
+#### 🔹 Topics Covered
+- Overview of **MySQL as an RDBMS** and real-world database usage
+- **Database design principles**: normalization (1NF to BCNF), primary & foreign keys
+- **Constraints**: NOT NULL, UNIQUE, CHECK, DEFAULT, AUTO_INCREMENT
+- **SQL command categories**: DDL, DML, DQL, DCL, TCL
+- **Joins** (INNER, LEFT, RIGHT), subqueries, CTEs, and window functions
+- **Transactions & ACID properties** for data consistency
+- **Indexing concepts** in MySQL & SQL Server
+- Query performance tuning using `EXPLAIN`
+
+#### 🔹 Hands-On Practice
+- Practiced SQL queries on real-world scenarios:
+  - **Employee Management System** – CRUD operations, search & updates
+  - **Banking System** – balance handling with transactions
+  - **Library Management System** – book inventory, issue/return, user tracking
+
+✔ Strengthened understanding of **data integrity, performance optimization, and JDBC-ready SQL design**
+
+👉 [Day 43 - MySQL Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice)
