@@ -133,6 +133,24 @@ BridgeLabz-Training/
 |   |               └── 📁 Multithreading/
 |   └── 📁 scenario-based-codebase/
 |
+├── 📁 mysql-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 mysqlpractice/
+│   │       └── 📁 src/
+│   │           |── 📁 main/
+│   │           |   ├── 📁 java/
+|   |           |   |   └── 📁 com/
+|   |           |   |       └── 📁 mysqlpractice/
+|   |           |   |                   
+|   |           |   └── 📁 resources/
+|   |           |       └── 📁 sql/
+|   |           |
+|   |           └── 📁 test/
+│   │               ├── 📁 java/
+|   |               └── 📁 resources/
+|   |            
+|   └── 📁 scenario-based-codebase/
+|
 └── README.md
 ```
 
@@ -1458,9 +1476,10 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 
 ✔ Focused on clean logic, data aggregation, and rule-based result generation
 
+---
+
 </details>
 
----
 
 ## 📅 Week 8 - MySQL Database & JDBC(Java-Database-Connectivity)
 
