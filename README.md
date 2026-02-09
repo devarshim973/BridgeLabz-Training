@@ -82,6 +82,6 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 
 ✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
 
-👉 [Day 2 - MySQL Scenario-Based Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/Scenario-based-codebase/MySqlScenarioPractice/src/main/resources/sql)
+👉 [Day 2 - MySQL Scenario-Based Practice](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/Scenario-based-codebase/MySqlScenarioPractice/src/main/resources/sql)
 
 ---
