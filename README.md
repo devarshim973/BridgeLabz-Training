@@ -1577,7 +1577,7 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 #### ✅ Outcome
 Strengthened understanding of **JDBC fundamentals to advanced concepts**, gained confidence in building **database-driven Java applications**, and learned **production-level best practices** for performance, security, and maintainability.
 
-👉 [Day 45 - JDBC](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 45 - JDBC](https://github.com/devarshim973/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice)
 
 ---
 
