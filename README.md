@@ -1456,7 +1456,7 @@ Solved **conversion-based logical problems using Java 8 Streams**, focusing on t
 ---
 
 ### 📅 Day 42 – Logical Problem (C# Console Application)
-**(Date: 05-Jan-2026)**
+**(Date: 05-feb-2026)**
 
 #### 🔹 Problem Overview
 Implemented a **menu-driven console application** for *StreamBuzz*, a digital content platform to track creators’ engagement over 4 weeks.
@@ -1489,7 +1489,7 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 ---
 
 ### 📅 Day 43 – MySQL & JDBC Fundamentals  
-**(Date: 06-Jan-2026)**         
+**(Date: 06-feb-2026)**         
 **Branch:** `mysql-jdbc-practice`
 
 #### 🔹 Topics Covered
@@ -1515,7 +1515,7 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 ---
 
 ### 📅 Day 44 – MySQL + JDBC Scenario Practice & PowerSkill Training  
-**(Date: 07-Jan-2026)**    
+**(Date: 07-feb-2026)**    
 **Branch:** `mysql-jdbc-practice`
 
 #### 🔹 Technical Practice (Scenario-Based)
