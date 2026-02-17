@@ -1613,7 +1613,7 @@ Developed a system to calculate **Robot Hazard Risk Score** using:
 #### 🔹 Concepts Used
 Custom Exception, input validation, try-catch, logical formula implementation.
 
-👉 [Day 47 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase)
+👉 [Day 47 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/Factoryrobot)
 
 ---
 
@@ -1639,7 +1639,7 @@ Developed an **Airline Management validation system** to verify flight details a
 #### 🔹 Outcome
 Improved understanding of **input validation, exception handling, business rule enforcement, and structured Java application design** aligned with assessment-level standards.
 
-👉 [Day 48 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/Scenario-based-codebase)
+👉 [Day 48 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/Aerovigil)
 
 ---
 
