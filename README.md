@@ -1666,6 +1666,95 @@ Decoded a 10-character alphanumeric booking ID:
 Improved skills in collections, date handling, string processing, and validation logic.
 
 👉 [Day 49 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/dsa-practice/dsa-practice/CarProTaxiService)
+
+### 📅 Day 49 – Logical Practice (Collections & Strings)          
+**(Date: 13-Feb-2026)**           
+
+#### 🔹 1️⃣ Car Pro – Booking Date Filter
+Implemented a booking system using `Map<String, Date>` to store bookingId and date.  
+Created `findCabBookingIdsForTheBookingDate(Date date)` to filter IDs based on `yyyy-MM-dd` format.  
+Displayed matching bookings or “No bookings were booked”.
+
+**Concepts:** HashMap, List, Date parsing, iteration, OOP structure.
+
+#### 🔹 2️⃣ Train Booking ID Decoder
+Decoded a 10-character alphanumeric booking ID:
+- Validate length → `Invalid Input`
+- Validate seat count (1–10) → `Invalid Count`
+- Validate seat format (Letter + 2 digits) → `Invalid Seat Number`
+- Print consecutive seat numbers if valid.
+
+**Concepts:** String manipulation, character validation, parsing, conditional logic.
+
+#### 🎯 Outcome
+Improved skills in collections, date handling, string processing, and validation logic.
+
+👉 [Day 49 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/assesment)
+
+---
+
+### 📅 Day 50 – PowerSkill Sessions          
+**(Date: 14-Feb-2026)**       
+
+Attended a session on professional communication and workplace writing skills.
+
+#### 🔹 Focus Areas
+- Effective verbal & written communication  
+- Professional email structure and tone  
+- Grammar, syntax, and clarity  
+- Formal communication standards  
+
+#### 🎯 Outcome
+Enhanced email writing skills, improved clarity in communication, and strengthened professional etiquette.
+
+---
+
+## 📅 Day 51 – Logical Question(Train Booking ID Decoder)         
+**(Date: 16-Feb-2026)**           
+
+Solved a logical problem to decode a 10-character train booking ID and display seat numbers.
+
+### 🔹 Key Logic
+- Validate length → `Invalid Input`
+- Validate seat count (1–10) → `Invalid Count`
+- Validate format (Letter + 2 digits) → `Invalid Seat Number`
+- Print consecutive seat numbers if valid
+
+### 🔹 Concepts Used
+String manipulation, character validation, parsing, and conditional logic.
+
+### 🎯 Outcome
+Improved string processing and edge-case handling skills.
+
+👉 [Day 51 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com/Sophiaassesment)
+
+---
+
+### 📅 Day 52 - Scenario Practice     
+**(Date: 17-Feb-2026)**              
+
+#### 🔹 1️⃣ EchoWeave Encryption  
+Solved a cryptographic-style string problem that reconstructs a word based on character frequency.  
+- Validated alphabet-only input  
+- Converted to uppercase  
+- Grouped characters into even and odd frequency (maintaining order)  
+- Rebuilt the string and inserted the count of single-occurrence characters at the center  
+- Handled special cases (all unique / no single occurrences)
+
+**Concepts:** String parsing, frequency mapping, ordered processing, conditional insertion logic.
+
+#### 🔹 2️⃣ CoolTrack – Data Center Monitoring System  
+Built a monitoring system using `LinkedHashSet<DataCenter>` to manage records.  
+- Added data center details  
+- Retrieved data by case-sensitive ID  
+- Identified all centers with maximum cooling power usage  
+
+Followed proper OOP structure with Model, Utility, and UserInterface classes.
+
+**Concepts:** Set collections, searching, aggregation, object-based design.
+
+👉 [Day 52 - Logical Problem](https://github.com/devarshim973/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/Scenario-based-codebased/CollectionsScenariopractice/src/com)
+
 </details>
 
 
