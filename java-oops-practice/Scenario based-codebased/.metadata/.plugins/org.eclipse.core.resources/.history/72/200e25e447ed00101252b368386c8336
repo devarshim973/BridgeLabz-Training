@@ -1,0 +1,8 @@
+package com.Day8FoodLoopRestaurantOrderingSystem;
+
+public class NonVegFoodItem extends BaseFoodItem {
+	public NonVegFoodItem(String name,double price,int stock) {
+		super(name,"non-veg",price,stock);
+	}
+
+}

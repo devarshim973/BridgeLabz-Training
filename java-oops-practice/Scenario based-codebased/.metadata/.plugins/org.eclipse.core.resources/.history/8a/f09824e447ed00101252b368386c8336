@@ -1,0 +1,37 @@
+package com.Day8FoodLoopRestaurantOrderingSystem;
+
+abstract class BaseFoodItem {
+
+    private String name;
+    private String category;
+    private double price;
+    private int stock;   // hidden stock
+
+    public BaseFoodItem(String name, String category,
+                        double price, int stock) {
+        this.name = name;
+        this.category = category;
+        this.price = price;
+        this.stock = stock;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    protected double getPrice() {
+        return price;
+    }
+
+    // Check availability (encapsulated)
+    protected boolean isAvailable() {
+        return stock > 0;
+    }
+
+    // ✅ FIX: Method declared in base class
+    protected void reduceStock() {
+        if (stock > 0) {
+            stock--;
+        }
+    }
+}

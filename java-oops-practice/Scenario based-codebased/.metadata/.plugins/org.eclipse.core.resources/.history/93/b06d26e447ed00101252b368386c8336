@@ -1,0 +1,6 @@
+package com.Day8FoodLoopRestaurantOrderingSystem;
+
+interface OrderablePolicy {
+ void placeOrder();
+ void cancelOrder();
+}

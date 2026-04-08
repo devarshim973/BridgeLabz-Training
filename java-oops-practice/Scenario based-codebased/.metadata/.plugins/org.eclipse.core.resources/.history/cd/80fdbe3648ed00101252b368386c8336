@@ -1,0 +1,5 @@
+package com.Day8.FoodLoopRestaurantOrderingSystem;
+
+public class VegFoodItem {
+
+}
